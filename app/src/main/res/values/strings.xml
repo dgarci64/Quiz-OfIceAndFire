@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Quiz of Ice and Fire</string>
+    <string name="app_title">A Quiz of Ice and Fire!</string>
+    <string name="app_description">This quiz will test your knowledge of the mottos for each of the nine great houses of Westeros</string>
+    <string name="question1_prompt">Question 1: House Stark\n\nHouse Stark is located in the Icey North and there motto reflects there anticipation of hard times.(It is also a popular meme) Can you complete the below Motto?\n\n \t ________ is coming</string>
+    <string name="question2_prompt">Question 2: House Arryn\n\nHouse Arryn is located in the Mountain regions in the East and hold Honor above all\n\n Can you guess which of the below are the words for House Arryn:</string>
+    <string name="q2_radiobutton1">Two Birds, one stone</string>
+    <string name="q2_radionbutton2">A bird in the hand is worth two in the bush</string>
+    <string name="q2_radiobutton3">As High as Honor</string>
+    <string name="q3_prompt">Question 3: House Greyjoy\n\nHouse Greyjoy is based in the Iron Islands of the western coast of Westeros. And because natural resources are scarce they take to pirating and pillaging.\n\nWhich of the following statements below are the words of House Greyjoy</string>
+    <string name="q3_radiobutton1">We Do Not Sow</string>
+    <string name="q3_radiobutton2">No Givsies Backsies</string>
+    <string name="q3_radiobutton3">The Tides of Change are Upon Thee</string>
+    <string name="q4_prompt">Question 4: House Martell\n\nHouse Martell is located in the desert region in the south of westeros. being in a remote region has shielded them from being conquered by any of the other houses.\n\nWhich of the following statements below are the words of House Martell</string>
+    <string name="q4_radiobutton1">Unbowed, Unbent, Unbroken</string>
+    <string name="q4_radiobutton2">Rather die on my feet than live on my knees</string>
+    <string name="q4_radiobutton3">Upeth Thine Keester</string>
+    <string name="q5_prompt">Question 5: House Targaryan\n\n House Targaryan has a history steeped in conquest and brutal Tyranny and their house sigil is a dragon.\n\n Guess which two thematic elements complete the house motto of House Targaryan below:\n\n_________ and ______</string>
+    <string name="q5_checkbox1text">Fire</string>
+    <string name="q5_checkbox2text">Blood</string>
+    <string name="q5_checkbox3text">Destruction</string>
+    <string name="q1_entrytexthint">One of the four seasons</string>
+    <string name="q6_prompt">Question 6: House Tully\n\n House Tully rules in the Riverlands and hold strong core values. \n\nGuess which of the below are the words of house Tully:</string>
+    <string name="q6_radiobutton1">Like Fish in a Barrel</string>
+    <string name="q6_radiobutton2">Family, Duty, Honor</string>
+    <string name="q6_radiobutton3">Teach a Man to Fish</string>
+    <string name="q7_prompt">Question 7: House Tyrell\n\n House Tyrell is a young and important house as they control much of the fertile cropland.\n\n Can you guess which of the following statements below are the words of House Tyrell:</string>
+    <string name="q7_radiobutton1">Paging Doctor Greenthumb</string>
+    <string name="q7_radiobutton2">Grass is Always Greener</string>
+    <string name="q7_radiobutton3">Growing Strong</string>
+    <string name="q8_prompt">Question 8: House Baratheon\n\n House Baratheon rules the Storm Lands in the East, a region whose people are hardened by dangerous storms and brutal conflict.\n\n Can you guess which of the following statements below are the words of House Baratheon?</string>
+    <string name="q8_radiobutton1">Doe is for deer a female deer</string>
+    <string name="q8_radiobutton2">Ours is the Fury</string>
+    <string name="q8_radiobutton3">Mess with the Stag and you get the Antlers</string>
+    <string name="q9_prompt">Question 9: House Lannister\n\n House Lannister has a golden lion for a sigil and rules in the West. Where they control various gold mines making them the richest of all the great houses. They have an official and an unoffcial motto, which all westerosi seem to mix up.\n\n Can you pick out the two mottos attributed to this house: </string>
+    <string name="q9_checkbox1text">Hear Me Roar</string>
+    <string name="q9_checkbox2text">A Lannister always pays his debts</string>
+    <string name="q9_checkbox3text">Tis better to be a Lion for a day than a sheep your whole life</string>
+    <string name="submit_button_text">Submit</string>
+
+</resources>
